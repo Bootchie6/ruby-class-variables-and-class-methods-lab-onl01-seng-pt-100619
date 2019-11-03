@@ -27,7 +27,8 @@ class Song
   end
   
   def self.genre_count
-    genre_count {}
+    genre_count = {}
+    if genre_count
   end
   
   def self.artist.count
